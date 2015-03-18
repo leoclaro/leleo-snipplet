@@ -1,0 +1,1 @@
+Sincronização dos meus Snipplets com a ferramenta Snippely.
